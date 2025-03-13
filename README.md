@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:Prajith M
 🔭 I’m currently working on Lead DevOps, Automation, and Optimizing Applications.<br>🌱 I’m currently learning about AI tools and their applications.<br>🤝 I’m looking to collaborate on innovative DevOps solutions and AI-driven projects.<br>💬 Ask me about Azure, CI/CD pipelines, automation, and application optimization.<br>⚡ Fun fact I enjoy playing badminton, setting up aquariums, and riding!
 
 
